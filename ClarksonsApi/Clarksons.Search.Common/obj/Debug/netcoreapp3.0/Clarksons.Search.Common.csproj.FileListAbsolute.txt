@@ -1,0 +1,8 @@
+C:\github\Clarkson.First\Clarkson.Search.Common\bin\Debug\netcoreapp3.0\Clarksons.Search.Common.deps.json
+C:\github\Clarkson.First\Clarkson.Search.Common\bin\Debug\netcoreapp3.0\Clarksons.Search.Common.dll
+C:\github\Clarkson.First\Clarkson.Search.Common\bin\Debug\netcoreapp3.0\Clarksons.Search.Common.pdb
+C:\github\Clarkson.First\Clarkson.Search.Common\obj\Debug\netcoreapp3.0\Clarksons.Search.Common.csprojAssemblyReference.cache
+C:\github\Clarkson.First\Clarkson.Search.Common\obj\Debug\netcoreapp3.0\Clarksons.Search.Common.AssemblyInfoInputs.cache
+C:\github\Clarkson.First\Clarkson.Search.Common\obj\Debug\netcoreapp3.0\Clarksons.Search.Common.AssemblyInfo.cs
+C:\github\Clarkson.First\Clarkson.Search.Common\obj\Debug\netcoreapp3.0\Clarksons.Search.Common.dll
+C:\github\Clarkson.First\Clarkson.Search.Common\obj\Debug\netcoreapp3.0\Clarksons.Search.Common.pdb

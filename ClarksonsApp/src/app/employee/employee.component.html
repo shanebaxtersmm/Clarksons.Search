@@ -1,0 +1,34 @@
+
+<div class="col-md-12">
+<div class="jumbotron">
+  <h1 class="display-4">Clarksons employee search </h1>
+  <hr class="my-4">
+
+  <div class="form-group">
+    <input type="text" class="form-control"  placeholder="Search" (keyup.enter)="find(searchTest.value)" #searchTest>
+    <small  class="form-text text-muted">Enter lastname and press enter for search</small>
+  </div>
+
+</div>
+</div>
+<div class="col-md-12">
+<table class="table" *ngIf="results.Succeeded">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Hire Date</th>
+    </tr>
+  </thead>
+  <tbody >
+    <tr *ngFor="let emp of results.Employees">
+      <td>{{emp.Id}}</td>
+      <td>{{emp.Firstname}}</td>
+      <td>{{emp.Lastname}}</td>
+      <td>{{emp.HireDate|date}}</td>
+    </tr>
+
+  </tbody>
+</table>
+</div>

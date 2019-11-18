@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Api\\Clarksons.Search.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Data\\Clarksons.Search.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Data\\Clarksons.Search.Data.csproj",
+        "projectName": "Clarksons.Search.Data",
+        "projectPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Data\\Clarksons.Search.Data.csproj",
+        "packagesPath": "C:\\Users\\sbaxter\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sbaxter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\corporate\\teams\\Information_Systems\\Development\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Api\\Clarksons.Search.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Api\\Clarksons.Search.Api.csproj",
+        "projectName": "Clarksons.Search.Api",
+        "projectPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Api\\Clarksons.Search.Api.csproj",
+        "packagesPath": "C:\\Users\\sbaxter\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sbaxter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\corporate\\teams\\Information_Systems\\Development\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Data\\Clarksons.Search.Data.csproj": {
+                "projectPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Data\\Clarksons.Search.Data.csproj"
+              },
+              "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Service\\Clarksons.Search.Service.csproj": {
+                "projectPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Service\\Clarksons.Search.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Common\\Clarksons.Search.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Common\\Clarksons.Search.Common.csproj",
+        "projectName": "Clarksons.Search.Common",
+        "projectPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Common\\Clarksons.Search.Common.csproj",
+        "packagesPath": "C:\\Users\\sbaxter\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sbaxter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\corporate\\teams\\Information_Systems\\Development\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Service\\Clarksons.Search.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Service\\Clarksons.Search.Service.csproj",
+        "projectName": "Clarksons.Search.Service",
+        "projectPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Service\\Clarksons.Search.Service.csproj",
+        "packagesPath": "C:\\Users\\sbaxter\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sbaxter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\corporate\\teams\\Information_Systems\\Development\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Data\\Clarksons.Search.Data.csproj": {
+                "projectPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Data\\Clarksons.Search.Data.csproj"
+              },
+              "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Common\\Clarksons.Search.Common.csproj": {
+                "projectPath": "C:\\github\\Clarksons.Search\\Clarksons.Search\\ClarksonsApi\\Clarksons.Search.Common\\Clarksons.Search.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

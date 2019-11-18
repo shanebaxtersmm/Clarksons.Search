@@ -1,0 +1,16 @@
+C:\github\Clarkson.First\Clarksons.Data\bin\Debug\netcoreapp2.2\Clarksons.Search.Data.deps.json
+C:\github\Clarkson.First\Clarksons.Data\bin\Debug\netcoreapp2.2\Clarksons.Search.Data.dll
+C:\github\Clarkson.First\Clarksons.Data\bin\Debug\netcoreapp2.2\Clarksons.Search.Data.pdb
+C:\github\Clarkson.First\Clarksons.Data\obj\Debug\netcoreapp2.2\Clarksons.Search.Data.csprojAssemblyReference.cache
+C:\github\Clarkson.First\Clarksons.Data\obj\Debug\netcoreapp2.2\Clarksons.Search.Data.AssemblyInfoInputs.cache
+C:\github\Clarkson.First\Clarksons.Data\obj\Debug\netcoreapp2.2\Clarksons.Search.Data.AssemblyInfo.cs
+C:\github\Clarkson.First\Clarksons.Data\obj\Debug\netcoreapp2.2\Clarksons.Search.Data.dll
+C:\github\Clarkson.First\Clarksons.Data\obj\Debug\netcoreapp2.2\Clarksons.Search.Data.pdb
+C:\github\Clarksons.Search\Clarksons.Search\ClarksonsApi\Clarksons.Data\bin\Debug\netcoreapp2.2\Clarksons.Search.Data.deps.json
+C:\github\Clarksons.Search\Clarksons.Search\ClarksonsApi\Clarksons.Data\bin\Debug\netcoreapp2.2\Clarksons.Search.Data.dll
+C:\github\Clarksons.Search\Clarksons.Search\ClarksonsApi\Clarksons.Data\bin\Debug\netcoreapp2.2\Clarksons.Search.Data.pdb
+C:\github\Clarksons.Search\Clarksons.Search\ClarksonsApi\Clarksons.Data\obj\Debug\netcoreapp2.2\Clarksons.Search.Data.csprojAssemblyReference.cache
+C:\github\Clarksons.Search\Clarksons.Search\ClarksonsApi\Clarksons.Data\obj\Debug\netcoreapp2.2\Clarksons.Search.Data.AssemblyInfoInputs.cache
+C:\github\Clarksons.Search\Clarksons.Search\ClarksonsApi\Clarksons.Data\obj\Debug\netcoreapp2.2\Clarksons.Search.Data.AssemblyInfo.cs
+C:\github\Clarksons.Search\Clarksons.Search\ClarksonsApi\Clarksons.Data\obj\Debug\netcoreapp2.2\Clarksons.Search.Data.dll
+C:\github\Clarksons.Search\Clarksons.Search\ClarksonsApi\Clarksons.Data\obj\Debug\netcoreapp2.2\Clarksons.Search.Data.pdb
